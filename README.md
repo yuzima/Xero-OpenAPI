@@ -4,7 +4,7 @@ An OpenAPI (Swagger) specification for the Xero API with OAuth 2.0 security sche
 ## Description
 This repository holds the official Xero [OpenAPI](https://www.openapis.org/) descriptions.   
 
-OpenAPI spec 3.0
+OpenAPI spec 4.0
 In Release (used for one or more SDKs)
 * [Accounting](https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero_accounting.yaml)
 * [Identity](https://raw.githubusercontent.com/XeroAPI/Xero-OpenAPI/master/xero-identity.yaml)
